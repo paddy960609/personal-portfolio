@@ -1,0 +1,93 @@
+#title {
+  background: linear-gradient(rgba(255,255,255,0.5), rgba(255,255,255,0.5)),
+    url('images/FsLs_G-XoAA7_83.jpg');
+  filter: brightness(80%);
+  background-size: cover;
+  color: #fff;
+}
+
+a {
+  text-shadow: 2px 2px #fff;
+}
+body{
+  font-family: "Montserrat";
+}
+h1 {
+  font-family: 'Montserrat, sans-serif';
+  font-size: 3.5rem;
+  line-height: 1.5;
+  font-weight: 500;
+  color: #273746;
+}
+h2 {
+  color: #6495ED;
+  text-shadow: 2px 2px #fff;
+}
+p {
+  color: #273746;
+  text-align: center;
+  text-shadow: 2px 2px #fff;
+}
+.container-fluid{
+  padding:3% 10%;
+}
+img{
+  transform: rotate(350deg);
+}
+.col-lg-6{
+  padding:3%
+}
+
+/* navigation bar */
+.navbar {
+  padding-bottom: 0 0 4.5rem;
+}
+.navbar-brand {
+  font-family: "Merriweather";
+  font-weight: 400;
+  font-size: 1.5rem;
+}
+.nav-item {
+  padding: 0 20px;
+}
+
+.nav-link{
+  font-size: 1.5rem;
+  font-family: "Montserrat-semibold";
+}
+
+/* linkedIn button */
+.linkedin-button {
+  margin: 0 0 3% 0;
+}
+
+/* profile pic */
+.profile-pic {
+  width: 55%;
+  padding: 0 40px;
+}
+/* features */
+#features {
+  padding: 8% 15%;
+  background: linear-gradient(rgba(255,255,255,0.5), rgba(255,255,255,0.5)),
+    url('images/S__22052882.jpg');
+  background-size: cover;
+}
+.feature-box {
+  text-align: center;
+  padding:3%;
+}
+h3 {
+  font-family: "Merriweather-bold";
+  text-align: center;
+}
+.icon{
+  color:#800080;
+  margin-bottom: 2rem;
+}
+.icon:hover {
+  color: #FF00FF;
+}
+.contact {
+  padding: 2% 10%;
+}
